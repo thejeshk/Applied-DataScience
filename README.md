@@ -219,3 +219,6 @@ The section is stand alone and can be done at any time to learn and publish your
 58. Dynamic Axis Selection (8:40)
 59. Final Dashboard and Publishing (12:30)
 # Applied-DataScience
+
+![GitHub Logo](/images/crisp-dm-4-problems-fig1.png)
+Format: ![Alt Text](url)
